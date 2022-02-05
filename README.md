@@ -1,1 +1,2 @@
-This is the repository that I will use to learn Git.
+
+These python scripts will be used to develop various programs. 
